@@ -1,3 +1,12 @@
++ [Wersja angielska - EN](https://www.apisql.com/)
+
+# [APIsql](http://www.apisql.com)
+
+![apisql-logo.png](https://logo.apiexec.com/apisql-logo.png)
+
+https://github.com/apisql
+
+
 ## Witamy na stronie projektu APIsql
 
 Celem jest stworzenie warunków do jak najszybszej migracji aplikacji pomiędzy:
