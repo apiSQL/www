@@ -1,7 +1,18 @@
-## Welcome to APIsql Page
+## Witamy na stronie projektu APIsql
 
-# docs
-Doumentation, Tutorial, Information, Comparasion to another tools
+Celem jest stworzenie warunków do jak najszybszej migracji aplikacji pomiędzy:
++ wersjami
++ architekturami
++ privderami środowiska
+
+
+Dane oprócz kodu aplikacji są istotnym często implementowaną częścią aplikacji
+która jest implementowana w zalezności od zastosowanego rozwiązania.
+
+Bazą często jest język komunikacji bazy danych: SQL
+
+warto wobec tego wykorzystać już utworzony kod lub generowany poprzez PDo i komunikować się z bazą danych
+mimo innych warunków zewnętrzynch jak: zmiana bazy danych czy mikrousługowa architektura.
 
 ## Existing solutions
 https://cloud-elements.com/elements/sql-server-api/
