@@ -1,6 +1,6 @@
 + [polish version - PL](https://www.apisql.com/README_PL.html)
 
-# [APIsql](http://www.apisql.com)
+# [APIsql](https://www.apisql.com)
 
 ![apisql-logo.png](https://logo.apisql.com/apisql-logo.png)
 

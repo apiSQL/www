@@ -1,6 +1,6 @@
 + [Wersja angielska - EN](https://www.apisql.com/)
 
-# [APIsql](http://www.apisql.com)
+# [APIsql](https://www.apisql.com)
 
 ![apisql-logo.png](https://logo.apiexec.com/apisql-logo.png)
 
