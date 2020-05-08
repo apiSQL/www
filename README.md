@@ -39,20 +39,20 @@ Doumentation, Tutorial, Information, Comparasion to another tools
 ## Existing solutions
 https://cloud-elements.com/elements/sql-server-api/
 
-One-to-Many
+### One-to-Many
 One API Integration to connect you to all the leading database services: MySQL, SQL Server and PostreSQL.
 HubSpot API
 
 
-Simple Data Mapping
+### Simple Data Mapping
 Using Element Mapper, our drag-and-drop UI, easily map and normalize data objects and fields between leading cloud services.
 Marketing Cloud Services
 
 
-Stay Up to Date
+### Stay Up to Date
 We even manage user access and authentication, API updates, logging and monitoring, all from a consistent platform.
 
-## Make Api fast
+## Make an Api fast as possible
 https://nordicapis.com/making-fast-apis-lessons-learned-from-40-years-of-sql/
 
 
