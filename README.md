@@ -17,21 +17,16 @@ Now, in 2020 we are giving solutions:
 + [APIunit - definition of application, CI, CD](https://www.apiunit.com)
 + [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
 + [APIsql - data bases, queries, models](https://www.apisql.com)
-
-## About APIexec
-
-APIexec it's a runner for bash scripts, written in many programming languages as a library:
-+ nodejs
-+ php
-+ python
-
-## Is using in projects:
-+ [APIcra](https://www.apicra.com)
-+ [ProMaGen](https://www.promagen.com/)
-+ [DevOpsTerminal](https://docs.devopsterminal.com/)
++ [APIfunc - FaaS solutions](https://www.apifunc.com)
 
 
-## Welcome to APIsql Page
+## About APIsql
+
+This tools is able to create meta data from SQL statement and SQL schema
+The way from SQL to API is possbile with one step, just for configuration
+
+In preparation is a data connector and model data with API REST server for many formats and types of data
+
 
 # docs
 Doumentation, Tutorial, Information, Comparasion to another tools
@@ -64,10 +59,6 @@ https://carto.com/developers/sql-api/reference/#operation/postSQLStatement
 This is tool, which is the first step to reach in practical some parts of goals for UnitApi which will be later the main standard to build any API
 
 urlQuery -> sqlQuery
-
-# apiSQL
-This tools is able to create meta data from SQL statement and SQL schema
-The way from SQL to API is possbile with one step, just for configuration
 
 
 ## import-export generator
