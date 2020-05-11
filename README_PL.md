@@ -8,25 +8,6 @@ https://github.com/apisql
 
 
 
-## Projekt APIsql jest wspierany przez [API Foundation](https://www.apifoundation.com)
-
-Od początku działania (w 2018 roku) tworzyliśmy kilka koncepcji skupionych wokół jednej idei: szybszego wytwarzania orogramowania
-Obecnie w roku 2020 oferujemy rozwiązania:
-
-+ [APIexec - executor, aplikacja uruchamiająca skrypty powłoki shell](https://www.apiexec.com)
-+ [APIcra - biblioteki skryptów shell](https://www.apicra.com)
-+ [APIunit - definicje aplikacji oraz środowiska dla ciągłej kontroli wytwarzania oprogramowania](https://www.apiunit.com)
-+ [APIbuild - monitorowanie wytwarzania oprogramowania, jakość i wersjonowanie ](https://www.apibuild.com)
-+ [APIsql - bazy danych, zapytania, modele](https://www.apisql.com)
-+ [APIfunc - rozwiązania dla FaaS](https://www.apifunc.com)
-
-## About APIexec
-
-APIexec it's a runner for bash scripts, written in many programming languages as a library:
-+ nodejs
-+ php
-+ python
-
 ## Is using in projects:
 + [APIcra](https://www.apicra.com)
 + [ProMaGen](https://www.promagen.com/)
@@ -283,3 +264,21 @@ czytanie pliku z modelami
 generowanie 9 zapytan do kazdego modelu
 dodatkowe rozpoznawanie
 
+
+
+
+# [API Foundation](https://www.apifoundation.com)
+
+Projekt APIsql jest wspierany przez [API Foundation](https://www.apifoundation.com)
+
+Wystartowaliśmy w roku 2018 z kilkoma pomysłami ale jedną ideą:
++ szybsze wytwarzanie orogramowania
+
+Dziś, w roku 2020 dajemy rozwiązania w kilku obszarach:
+
++ [APIexec - executor library for shell scripts](https://www.apiexec.com)
++ [APIcra - shell scripts libraries](https://www.apicra.com)
++ [APIunit - definition of application, CI, CD](https://www.apiunit.com)
++ [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
++ [APIsql - bazy danych, zapytania, modele](https://www.apisql.com)
++ [APIfunc - rozwiązania dla FaaS](https://www.apifunc.com)
