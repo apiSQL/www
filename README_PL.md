@@ -7,9 +7,8 @@
 https://github.com/apisql
 
 
-Projekt apisql jest wspierany przez [API Foundation](https://apifoundation.com)
 
-## Rozwiązania wspierane przez [API Foundation](https://apifoundation.com)
+## Projekt APIsql jest wspierany przez [API Foundation](https://apifoundation.com)
 
 Od początku działania (w 2018 roku) tworzyliśmy kilka koncepcji skupionych wokół jednej idei: szybszego wytwarzania orogramowania
 Obecnie w roku 2020 oferujemy rozwiązania:
