@@ -7,7 +7,7 @@
 https://github.com/apisql
 
 
-# The project is supported by [API Foundation](https://apifoundation.com)
+# The project is supported by [API Foundation](https://www.apifoundation.com)
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
